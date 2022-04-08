@@ -1,1 +1,1 @@
-# hj
+# hj-study project
